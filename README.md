@@ -109,12 +109,4 @@ java -jar target/SpringBoot-SendingSimpleEmail-0.0.1-SNAPSHOT.jar
 
 ---
 
-
-
-## ✉️ Contact
-
-For learning Spring Boot email integration with REST, Spring Security, or advanced mail handling, feel free to reach out anytime.
-
----
-
 **Happy Coding! 🚀**
